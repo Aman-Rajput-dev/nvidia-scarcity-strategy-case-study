@@ -43,7 +43,16 @@ The goal? To explain **how NVIDIA turned product scarcity into a weapon for pric
 [Coming Soon]
 
 ---
+## 🧑‍💻 Author
+**Siddharth Kumar**
+📧 \(siddharth27april2000@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/siddharth-kumar2002/) | [GitHub](https://github.com/siddharth2704)
 
+**Aman Rajput**
+📧 \(ar1632002@gmail.com)
+🌐 [LinkedIn](https://www.linkedin.com/in/aman-rajput-7a3a262a7/) | [GitHub](https://github.com/Aman-Rajput-dev)
+
+---
 ## 📜 License
 
 This project is for educational and portfolio purposes only. Please do not reproduce commercially without permission.
