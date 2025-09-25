@@ -44,15 +44,6 @@ The goal? To explain **how NVIDIA turned product scarcity into a weapon for pric
 
 ---
 
-## 🤝 Let’s Connect
-
-If this project sparked your curiosity or inspired you to dive deeper into data storytelling, feel free to reach out or connect:
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/aman-rajput-7a3a262a7/)
-- 📫 Email: ar1632002@gmail.com
-
----
-
 ## 📜 License
 
 This project is for educational and portfolio purposes only. Please do not reproduce commercially without permission.
